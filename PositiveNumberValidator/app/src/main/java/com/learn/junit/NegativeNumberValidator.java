@@ -1,4 +1,4 @@
-package com.learn.junit.positivenumbervalidator;
+package com.learn.junit;
 
 public class NegativeNumberValidator {
 

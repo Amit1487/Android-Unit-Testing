@@ -1,4 +1,6 @@
-package com.learn.junit.positivenumbervalidator;
+package com.learn.junit;
+
+import com.learn.junit.NegativeNumberValidator;
 
 import org.junit.Assert;
 import org.junit.Before;
